@@ -1,0 +1,47 @@
+﻿header{margin: 0; padding: 0;
+       font-family: '맑은 고딕', 'Malgun Gothic', Gothic, sans-serif;
+       text-shadow: 5px 5px 5px black;}
+       a {text-decoration: none;}
+       li{ list-style: none;}
+
+nav {text-shadow: 5px 5px 5px black;}
+
+
+
+.wrap { margin: 0; margin-right: auto; margin-left: auto; }
+
+.left { float: left; }
+
+.right { float: right; }
+
+#logo { float: left; vertical-align: middle; margin:30px 0 0 20px; }
+
+hr { clear: both; }
+
+nav { margin: 0 0 20px 0; float:left; }
+
+nav ul li { float:left; margin:0 10px; list-style:none; }
+
+nav a { display:block; padding:10px; }
+
+.wrap { width:800px; min-heigth:700px;}
+
+
+nav { width: 800px; }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+﻿#logo { color: darkblue; font-size: 48px; }
+
+nav { background-color: #EAEAEA; }
+
+nav ul {list-style: none; font-family: Verdana, Geneva, sans-serif; font-size: 14px; font-weight: bold; color:;}
+
+nav a { text-decoration: none; color:#000000; border-style: hidden hidden solid hidden ; border-color: transparent;}
+
+nav a:hover { color:#2b4480; border-color: blue; }
+
+
+
